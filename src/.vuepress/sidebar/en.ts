@@ -1,26 +1,28 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export const enSidebar = sidebar({
-  "/": [
-    "",
-    {
-      text: "Demo",
-      icon: "laptop-code",
-      prefix: "summit/",
-      link: "summit/",
-      children: "structure",
-    },
-    {
-      text: "Articles",
-      icon: "book",
-      prefix: "posts/",
-      children: "structure",
-    },
-    "intro",
-    {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/guide/content/revealjs/demo.html",
-    },
-  ],
-});
+export const enSidebar = sidebar([
+  "/",
+  "/globogen/",
+  {
+    text: "GenAI Summit",
+    icon: "person-dots-from-line",
+    children: [
+      {
+        text: "GenAI Summit Silicon Valley 2023",
+        icon: "/assets/images/sv2023.png",
+        link: "https://sv2023.genaisummit.ai/"
+      },
+      {
+        text: "GenAI Summit San Francisco 2024",
+        icon: "/assets/images/sf2024.png",
+        link: "https://genaisummit.ai/"
+      },
+      {
+        text: "GenAI Summit Silicon Valley 2024",
+        icon: "/assets/images/sv2024.png",
+        link: "https://preview.gptdao.ai"
+      }
+    ],
+  }
+
+]);

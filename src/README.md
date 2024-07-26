@@ -6,12 +6,12 @@ title: GPTDAO
 heroImage: /logo-white.png
 bgImage: /bg.webp
 heroText: GPTDAO
-tagline: 
+tagline: The largest Generative AI DAO in the world
 heroFullScreen: true
 projects:
   - icon: person-dots-from-line
     name: GenAI Summit
-    desc: The largest summit in the industry of generative AI
+    desc: The largest globogen in the industry of generative AI
     link: https://genaisummit.ai
 
   - icon: /GloboGen.png
