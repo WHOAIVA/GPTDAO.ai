@@ -1,0 +1,23 @@
+---
+home: true
+layout: BlogHome
+icon: home
+title: GPTDAO
+heroImage: /logo-white.png
+bgImage: /bg.webp
+heroText: GPTDAO
+tagline: 
+heroFullScreen: true
+projects:
+  - icon: person-dots-from-line
+    name: GenAI Summit
+    desc: The largest summit in the industry of generative AI
+    link: https://genaisummit.ai
+
+  - icon: /GloboGen.png
+    name: GloboGen
+    desc: One-Stop Solution for Business International Expansion
+    link: https://globogen.gptdao.ai
+
+footer: GPTDAO
+---
