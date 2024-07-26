@@ -9,7 +9,7 @@ heroText: GPTDAO
 tagline: The largest Generative AI DAO in the world
 heroFullScreen: true
 projects:
-  - icon: person-dots-from-line
+  - icon: /assets/images/sf2024.png
     name: GenAI Summit
     desc: The largest globogen in the industry of generative AI
     link: https://genaisummit.ai

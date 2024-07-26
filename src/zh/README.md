@@ -9,7 +9,7 @@ heroText: GPTDAO
 heroFullScreen: true
 tagline: 最大的生成式 AI 社区
 projects:
-  - icon: person-dots-from-line
+  - icon: /assets/images/sf2024.png
     name: GenAI Summit
     desc: 业界最大的规模的生成式人工智能峰会
     link: https://genaisummit.ai

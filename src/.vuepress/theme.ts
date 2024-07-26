@@ -39,7 +39,6 @@ export default hopeTheme({
 
       blog: {
         description: "The largest Generative AI DAO in the world.",
-        intro: "/intro.html",
       },
 
       metaLocales: {
@@ -63,7 +62,6 @@ export default hopeTheme({
 
       blog: {
         description: "全球最大的生成式 AI 社区",
-        intro: "/zh/intro.html",
       },
 
       // page meta
