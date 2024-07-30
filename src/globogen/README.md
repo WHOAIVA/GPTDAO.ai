@@ -83,6 +83,11 @@ GloboGen is committed to providing a one-stop solution for Chinese enterprises t
 - Increase Revenue: Precise strategies ensure product success and quickly improve sales performance. The average return on investment for social media ads is 95%, and brand mention rate can increase by 30%; the return rate on advertising support in overseas internet fields including Google can be as high as 8 times.
 - Enhance Brand Power: Improve brand image and influence, attracting more consumers. 59% of consumers are more willing to buy from familiar brands, and a strong brand image can also increase user loyalty. High-recognition brands have an average premium ability 10%-15% higher than general platforms, and marketing costs are 50% lower. Enhancing brand power is a wise long-term benefit for products.
 
+## Success Stories
+
+- [91AI.com](91ai-case.md)
+- [Akool.com](akool-case.md)
+
 ## Contact Us
 
 | Email                                     |
