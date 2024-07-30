@@ -5,8 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "GloboGen",
     icon: "/GloboGen.png",
-    prefix: "/zh/globogen/",
-    link: "README.md",
+    link: "/zh/globogen/README.md",
   },
   {
     text: "生成式人工智能峰会",

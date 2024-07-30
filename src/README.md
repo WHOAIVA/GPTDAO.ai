@@ -11,7 +11,7 @@ heroFullScreen: true
 projects:
   - icon: /assets/images/sf2024.png
     name: GenAI Summit
-    desc: The largest globogen in the industry of generative AI
+    desc: The largest summit in the industry of generative AI
     link: https://genaisummit.ai
 
   - icon: /GloboGen.png
