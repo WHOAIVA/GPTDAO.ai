@@ -85,7 +85,7 @@ GloboGen is committed to providing a one-stop solution for Chinese enterprises t
 
 ## Success Stories
 
-- [91AI.com](91ai-case.md)
+- [94AI.com](94ai-case.md)
 - [Akool.com](akool-case.md)
 
 ## Contact Us

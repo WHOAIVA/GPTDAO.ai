@@ -33,7 +33,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "The largest Generative AI DAO in the world",
 
       displayFooter: true,
 
@@ -56,7 +56,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "全球最大的生成式 AI 社区",
 
       displayFooter: true,
 
@@ -68,13 +68,6 @@ export default hopeTheme({
       metaLocales: {
         editLink: "编辑此页",
       },
-    },
-  },
-
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
     },
   },
 
