@@ -1,8 +1,13 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-  "/",
-  "/globogen/",
+  "/zh/",
+  {
+    text: "GloboGen",
+    icon: "/GloboGen.png",
+    prefix: "/zh/globogen/",
+    link: "README.md",
+  },
   {
     text: "生成式人工智能峰会",
     icon: "person-dots-from-line",

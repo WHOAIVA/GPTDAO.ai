@@ -1,8 +1,31 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar([
-  "/",
-  "/globogen/",
+  "/zh/",
+  {
+    text: "GloboGen",
+    icon: "/GloboGen.png",
+    prefix: "/zh/globogen/",
+    children: [
+      "README.md",
+      {
+        text: "成功案例",
+        icon: "star",
+        children: [
+          {
+            text: "94AI.com",
+            icon: "fire",
+            link: "94ai-case.md"
+          },
+          {
+            text: "Akool",
+            icon: "fire",
+            link: "akool-case.md"
+          }
+        ]
+      }
+    ],
+  },
   {
     text: "生成式人工智能峰会",
     icon: "person-dots-from-line",

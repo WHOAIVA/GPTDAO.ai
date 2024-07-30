@@ -2,7 +2,11 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   "/",
-  "/globogen/",
+  {
+    text: "GloboGen",
+    icon: "/GloboGen.png",
+    link: "/globogen/README.md",
+  },
   {
     text: "GenAI Summit",
     icon: "person-dots-from-line",
