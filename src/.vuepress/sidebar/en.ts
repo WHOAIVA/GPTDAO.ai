@@ -9,6 +9,11 @@ export const enSidebar = sidebar([
     children: [
       "README.md",
       {
+        text: "PDF Intro Download",
+        icon: "file-pdf",
+        link: "pdf-intro.md",
+      },
+      {
         text: "Success Stories",
         icon: "star",
         children: [

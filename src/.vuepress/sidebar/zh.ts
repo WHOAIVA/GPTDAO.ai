@@ -9,6 +9,11 @@ export const zhSidebar = sidebar([
     children: [
       "README.md",
       {
+        text: "PDF 介绍文档下载",
+        icon: "file-pdf",
+        link: "pdf-intro.md",
+      },
+      {
         text: "成功案例",
         icon: "star",
         children: [
