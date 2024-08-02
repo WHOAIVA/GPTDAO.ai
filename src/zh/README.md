@@ -19,5 +19,5 @@ projects:
     desc: 基于生成式人工智能技术的一站式的企业国际化业务扩展解决方案
     link: https://globogen.gptdao.ai
 
-footer: GPTDAO
+footer: 最大的生成式 AI 社区
 ---

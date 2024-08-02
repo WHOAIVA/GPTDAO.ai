@@ -19,5 +19,5 @@ projects:
     desc: One-Stop Solution for Business International Expansion
     link: https://globogen.gptdao.ai
 
-footer: GPTDAO
+footer: The largest Generative AI DAO in the world
 ---
