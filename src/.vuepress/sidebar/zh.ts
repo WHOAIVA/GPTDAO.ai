@@ -18,7 +18,7 @@ export const zhSidebar = sidebar([
         icon: "star",
         children: [
           {
-            text: "94AI.com",
+            text: "GPTDAO 助力 94AI.com 国际化扩张",
             icon: "fire",
             link: "94ai-case.md"
           },

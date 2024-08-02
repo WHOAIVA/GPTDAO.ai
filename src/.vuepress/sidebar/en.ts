@@ -18,7 +18,7 @@ export const enSidebar = sidebar([
         icon: "star",
         children: [
           {
-            text: "94AI.com",
+            text: "94AI.com International Expansion with GPTDAO Support",
             icon: "fire",
             link: "94ai-case.md"
           },

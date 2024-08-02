@@ -5,7 +5,7 @@ category:
   - GloboGen
 ---
 
-# 成功案例：94AI.com
+# 成功案例：GPTDAO 助力 94AI.com 国际化扩张
 
 ![](/assets/images/globogen/94ai-1.jpg)
 

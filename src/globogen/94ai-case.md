@@ -5,7 +5,7 @@ category:
   - GloboGen
 ---
 
-# Success Story: 94AI.com
+# Success Story: 94AI.com International Expansion with GPTDAO Support
 
 ![](/assets/images/globogen/94ai-1.jpg)
 
