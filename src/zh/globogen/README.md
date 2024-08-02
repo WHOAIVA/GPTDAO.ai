@@ -12,7 +12,7 @@ sticky: 90
 GloboGen 致力于为中国企业提供进入欧美市场的一站式解决方案。通过在项目中引入最前沿的生成式 AI 工具 ，简化流程，减少人力成本，提升效率，实现快速的品牌出海并助力业务高速增长
 
 
-## 合作伙伴
+## 成功案例
 
 <VPBanner
 title="94AI 出海案例"
@@ -21,7 +21,7 @@ logo="/assets/images/94ai-gptdao-black.png"
 :actions='[
 {
 text: "阅读案例",
-link:"https://mister-hope.com",
+link:"94ai-case.html",
 },
 ]'
 />
