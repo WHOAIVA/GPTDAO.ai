@@ -5,7 +5,7 @@ category:
   - GloboGen
 ---
 
-# 成功案例：91AI.com
+# 成功案例：94AI.com
 
 ![](/assets/images/globogen/94ai-screenshot.png)
 

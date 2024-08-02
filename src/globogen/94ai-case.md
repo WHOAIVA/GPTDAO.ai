@@ -5,7 +5,7 @@ category:
   - GloboGen
 ---
 
-# Success Story: 91AI.com
+# Success Story: 94AI.com
 
 ![](/assets/images/globogen/94ai-screenshot.png)
 
