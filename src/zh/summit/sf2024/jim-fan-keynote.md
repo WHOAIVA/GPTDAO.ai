@@ -12,6 +12,8 @@ head:
   - - meta
     - name: twitter:image:src
       content: https://gptdao.ai/assets/images/sf2024/Jim-Fan-Keynote-zh.png
+    - name: og:image
+      content: https://gptdao.ai/assets/images/sf2024/Jim-Fan-Keynote-zh.png
 description: 在 2024 旧金山生成式人工智能峰会上，杰出的人工智能研究员 Dr. Jim Fan 发表了一场引人入胜的主题演讲，题为《从猫到类人机器人：通向 AGI 的旅程》。Dr. Fan 的演讲回顾了人工智能领域的过去、现在和未来，突显了塑造这一领域的重要时刻和突破性进展。
 ---
 

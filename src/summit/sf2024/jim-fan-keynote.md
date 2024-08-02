@@ -11,6 +11,8 @@ head:
   - - meta
     - name: twitter:image:src
       content: https://gptdao.ai/assets/images/sf2024/Jim-Fan-Keynote-en.png
+    - name: og:image
+      content: https://gptdao.ai/assets/images/sf2024/Jim-Fan-Keynote-en.png
 description: "At the GenAI Summit SF 2024, Dr. Jim Fan, a distinguished researcher in the field of artificial intelligence, delivered a keynote speech that left the audience both inspired and intrigued. Dr. Fan's address, titled The Journey to AGI: From Cats to Humanoids, traversed the landscape of AI's past, present, and future, highlighting pivotal moments and groundbreaking advancements that have shaped the field."
 ---
 
