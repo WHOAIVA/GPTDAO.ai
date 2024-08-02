@@ -91,7 +91,7 @@ export default hopeTheme({
 
       componentOptions: {
         share: {
-          services: ["buffer", "facebook", "linkedin", "messenger", "twitter", "telegram", "reddit", "weibo" ]
+          services: ["twitter", "linkedin", "facebook", "messenger", "telegram", "reddit", "weibo", "buffer" ]
         }
       }
     },
