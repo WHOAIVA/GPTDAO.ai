@@ -43,12 +43,13 @@ export const zhSidebar = sidebar([
       {
         text: "2024 旧金山生成式人工智能峰会",
         icon: "/assets/images/sf2024.png",
-        link: "https://genaisummit.ai/"
+        prefix: "/zh/summit/sf2024/",
+        children: "structure"
       },
       {
         text: "2024 硅谷生成式人工智能峰会",
         icon: "/assets/images/sv2024.png",
-        link: "https://preview.gptdao.ai"
+        link: ""
       }
     ],
   }

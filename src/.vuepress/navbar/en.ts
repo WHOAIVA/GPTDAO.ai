@@ -24,7 +24,7 @@ export const enNavbar = navbar([
         {
             text: "GenAI Summit Silicon Valley 2024",
             icon: "/assets/images/sv2024.png",
-            link: "https://preview.gptdao.ai"
+            link: ""
         }
     ],
   }
