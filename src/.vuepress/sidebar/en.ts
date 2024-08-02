@@ -43,7 +43,8 @@ export const enSidebar = sidebar([
       {
         text: "GenAI Summit San Francisco 2024",
         icon: "/assets/images/sf2024.png",
-        link: "https://genaisummit.ai/"
+        prefix: "/summit/sf2024/",
+        children: "structure"
       },
       {
         text: "GenAI Summit Silicon Valley 2024",
