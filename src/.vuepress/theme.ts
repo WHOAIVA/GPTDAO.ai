@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
+import * as buffer from "node:buffer";
 
 export default hopeTheme({
   hostname: "https://gptdao.ai",
@@ -86,7 +87,13 @@ export default hopeTheme({
     // },
 
     components: {
-      components: ["Badge", "VPCard", "PDF", "VPBanner"],
+      components: ["Badge", "VPCard", "PDF", "VPBanner", "Share"],
+
+      componentOptions: {
+        share: {
+          services: ["buffer", "facebook", "linkedin", "messenger", "twitter", "telegram", "reddit", "weibo" ]
+        }
+      }
     },
 
     // These features are enabled for globogen, only preserve features you need here

@@ -56,3 +56,5 @@ Dr. Fan's vision extends beyond current capabilities, imagining a future where h
 Dr. Jim Fan's keynote at the GenAI Summit SF 2024 was a clarion call for continued innovation and collaboration in the field of AI. His comprehensive overview of AI's evolution, from its historical roots to its future potential, underscored the importance of asking the right questions and pursuing interdisciplinary research.
 
 As Dr. Fan eloquently stated, the journey towards AGI is both challenging and exhilarating. It requires the collective efforts of academia, industry, and the broader AI community. By embracing open-ended exploration, leveraging massive datasets, and developing powerful foundation models, we inch closer to realizing the full potential of AI. Dr. Fan's insights and vision serve as a guiding light, inspiring the next generation of AI researchers and practitioners to push the boundaries of what is possible.
+
+<Share colorful />
