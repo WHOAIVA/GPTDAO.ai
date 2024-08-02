@@ -6,6 +6,10 @@ tag:
     - GenAI
     - Jim Fan
     - NVIDIA
+head:
+  - - meta
+    - name: twitter:image:src
+      content: /assets/images/sf2024/Jim-Fan-Keynote-en.png
 ---
 
 # Dr. Jim Fan's Vision for the Future of AI: Insights from GenAI Summit SF 2024
