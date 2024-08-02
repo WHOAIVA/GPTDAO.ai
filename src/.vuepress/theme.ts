@@ -86,7 +86,7 @@ export default hopeTheme({
     // },
 
     components: {
-      components: ["Badge", "VPCard", "PDF"],
+      components: ["Badge", "VPCard", "PDF", "VPBanner"],
     },
 
     // These features are enabled for globogen, only preserve features you need here

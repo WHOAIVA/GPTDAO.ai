@@ -11,6 +11,20 @@ sticky: 90
 
 GloboGen is committed to providing a one-stop solution for Chinese enterprises to enter the European and American markets. By introducing cutting-edge generative AI tools into projects, we simplify processes, reduce labor costs, improve efficiency, achieve rapid brand globalization, and support high-speed business growth.
 
+## Success Stories
+
+<VPBanner
+title="94AI International Expansion"
+content="GPTDAO designed overseas company structures for 94AI and provided assistance in entering the European and American markets."
+logo="/assets/images/94ai-gptdao-black.png"
+:actions='[
+{
+text: "Read the Case",
+link:"94ai-case.html",
+},
+]'
+/>
+
 ## Product Mission
 
 1. Simplify Processes: We offer a one-stop solution to help clients easily enter international markets.

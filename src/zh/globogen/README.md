@@ -12,6 +12,21 @@ sticky: 90
 GloboGen 致力于为中国企业提供进入欧美市场的一站式解决方案。通过在项目中引入最前沿的生成式 AI 工具 ，简化流程，减少人力成本，提升效率，实现快速的品牌出海并助力业务高速增长
 
 
+## 成功案例
+
+<VPBanner
+title="94AI 出海案例"
+content="GPTDAO 为 94AI 设计了海外公司结构并提供进入欧美市场的助力"
+logo="/assets/images/94ai-gptdao-black.png"
+:actions='[
+{
+text: "阅读案例",
+link:"94ai-case.html",
+},
+]'
+/>
+
+
 ## 产品使命
 
 1. 简化流程：我们提供一站式解决方案，帮助客户轻松进入国际市场。
