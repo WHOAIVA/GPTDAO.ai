@@ -2,8 +2,7 @@
 cover: /assets/images/sf2024/Banner.png
 icon: /assets/images/sf2024.png
 category:
-    - 生成式人工智能峰会
-    - 旧金山
+    - GenAI Summit SF 2024
 tag:
     - 生成式人工智能
 sticky: 100

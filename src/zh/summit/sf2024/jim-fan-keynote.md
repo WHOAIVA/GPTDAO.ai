@@ -1,11 +1,12 @@
 ---
 cover: /assets/images/sf2024/Banner.png
 icon: newspaper
-category: GenAI Summit
+category: [GenAI Summit SF 2024, 活动亮点]
 tag:
-    - GenAI
+    - 生成式人工智能
     - Jim Fan
-    - NVIDIA
+    - 英伟达
+    - 主题演讲
 banner: /assets/images/sf2024/Jim-Fan-Keynote-zh.png
 head:
   - - meta

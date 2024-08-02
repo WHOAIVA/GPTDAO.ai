@@ -2,10 +2,9 @@
 cover: /assets/images/sf2024/Banner.png
 icon: /assets/images/sf2024.png
 category:
-    - GenAI Summit
-    - San Francisco
+    - GenAI Summit SF 2024
 tag:
-    - GenAI
+    - Generative AI
 sticky: 100
 
 ---

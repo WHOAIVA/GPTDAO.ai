@@ -1,11 +1,12 @@
 ---
 cover: /assets/images/sf2024/Banner.png
 icon: newspaper
-category: GenAI Summit
+category: [GenAI Summit SF 2024, Event Highlights] 
 tag:
     - GenAI
     - Jim Fan
     - NVIDIA
+    - Keynote
 head:
   - - meta
     - name: twitter:image:src
