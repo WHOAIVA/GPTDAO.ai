@@ -24,7 +24,7 @@ export const zhNavbar = navbar([
       {
         text: "2024 硅谷生成式人工智能峰会",
         icon: "/assets/images/sv2024.png",
-        link: "https://preview.gptdao.ai"
+        link: ""
       }
     ],
   }
