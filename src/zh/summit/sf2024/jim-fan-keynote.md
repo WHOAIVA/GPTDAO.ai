@@ -65,4 +65,4 @@ Dr. Jim Fan 在 2024 旧金山生成式人工智能峰会上的主题演讲是�
 
 正如 Dr. Fan 所言，通向 AGI 的旅程既充满挑战又令人振奋。它需要学术界、产业界和更广泛的 AI 社区的共同努力。通过接受开放式探索，利用海量数据集，开发强大的基础模型，我们离实现 AI 的全部潜力更近了一步。Dr. Fan 的洞见和愿景作为指导之光，激励下一代 AI 研究人员和实践者不断突破可能的界限。
 
-<Share colorful />
+<Share colorful cover="https://gptdao.ai/assets/images/sf2024/Jim-Fan-Keynote-zh.png" />

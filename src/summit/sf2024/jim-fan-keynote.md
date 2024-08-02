@@ -57,4 +57,4 @@ Dr. Jim Fan's keynote at the GenAI Summit SF 2024 was a clarion call for continu
 
 As Dr. Fan eloquently stated, the journey towards AGI is both challenging and exhilarating. It requires the collective efforts of academia, industry, and the broader AI community. By embracing open-ended exploration, leveraging massive datasets, and developing powerful foundation models, we inch closer to realizing the full potential of AI. Dr. Fan's insights and vision serve as a guiding light, inspiring the next generation of AI researchers and practitioners to push the boundaries of what is possible.
 
-<Share colorful />
+<Share colorful cover="https://gptdao.ai/assets/images/sf2024/Jim-Fan-Keynote-en.png" />
