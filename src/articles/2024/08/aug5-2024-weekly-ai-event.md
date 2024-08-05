@@ -5,6 +5,7 @@ category:
 tag:
     - Generative AI
     - San Francisco Bay Area Events
+contributors: false
 ---
 
 # Top AI Events in the Bay Area in Week of 8/5-8/11 2024

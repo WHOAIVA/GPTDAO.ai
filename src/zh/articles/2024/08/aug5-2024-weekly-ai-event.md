@@ -5,6 +5,7 @@ category:
 tag:
     - 生成式人工智能
     - 旧金山湾区活动
+contributors: false
 ---
 
 # 8/5-8/11 湾区顶尖 AI 活动
