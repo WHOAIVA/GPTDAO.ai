@@ -27,6 +27,11 @@ export const enNavbar = navbar([
             link: ""
         }
     ],
-  }
+  },
+{
+    text: "AI News",
+    icon: "newspaper",
+    link: "/zh/articles/"
+}
 
 ]);

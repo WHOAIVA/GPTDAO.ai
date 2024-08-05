@@ -1,8 +1,15 @@
-# Explosive News! Top AI Events in San Francisco Bay Area Next Week (8/5-8/11)
+---
+icon: newspaper
+category:
+    - AI News
+tag:
+    - Generative AI
+    - San Francisco Bay Area Events
+---
 
-**Dear Readers,**
+# Top AI Events in the Bay Area in Week of 8/5-8/11 2024
 
-Here is a series of AI-related events happening from August 5 to August 11 in the San Francisco Bay Area. These events cover a range of activities from technical workshops to networking opportunities, providing you with an excellent chance to engage with AI experts, learn about the latest technologies, and explore new trends.
+Here is a series of AI-related events happening from August 5th to August 11th in the San Francisco Bay Area. These events cover a range of activities from technical workshops to networking opportunities, providing you with an excellent chance to engage with AI experts, learn about the latest technologies, and explore new trends.
 
 ## Event Highlights
 
@@ -86,13 +93,6 @@ Here is a series of AI-related events happening from August 5 to August 11 in th
 - **Location:** Address provided upon registration
 - **Details:** Participate in the Agents and Compound AI Hackathon to explore advanced autonomous and human-like systems.
 - **Event Link:** [Agents and Compound AI Hackathon](https://lu.ma/kwp4mkr3)
-
-## Event Announcement
-**AI Product Management Experts**
-
-- **Date:** Tuesday, August 13, 2024
-- **Time:** 5:30 PM - 8:30 PM (PDT)
-- **Location:** 742 Valencia St, San Francisco
 
 ## Contact Us
 
