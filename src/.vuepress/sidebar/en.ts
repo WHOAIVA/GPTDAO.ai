@@ -52,6 +52,12 @@ export const enSidebar = sidebar([
         link: ""
       }
     ],
+  },
+  {
+    text: "AI News",
+    icon: "newspaper",
+    prefix: "/articles/",
+    children: "structure"
   }
 
 ]);

@@ -52,6 +52,12 @@ export const zhSidebar = sidebar([
         link: ""
       }
     ],
+  },
+  {
+      text: "人工智能新闻",
+      icon: "newspaper",
+      prefix: "/zh/articles/",
+      children: "structure"
   }
 
 ]);

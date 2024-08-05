@@ -27,6 +27,11 @@ export const zhNavbar = navbar([
         link: ""
       }
     ],
+  },
+  {
+    text: "AI 新闻",
+    icon: "newspaper",
+    link: "/zh/articles/"
   }
 
 ]);
